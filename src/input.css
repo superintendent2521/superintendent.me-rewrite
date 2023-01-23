@@ -25,3 +25,21 @@ body {
 
 
 }
+
+.proxy {
+
+    
+    text-align: right;
+    font-family: 'Roboto', sans-serif;
+
+
+}
+.proxysub {
+    background-color: #f6f8f8;
+    color: black;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+
+}
