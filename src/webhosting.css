@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+body {
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+
+}
+
+.headline {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+.discord {
+    background-color: #f6f8f8;
+    color: black;
+    padding: 14px 45px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+
+
+}
+
+.proxy {
+
+    
+    text-align: right;
+    font-family: 'Roboto', sans-serif;
+
+
+}
+.proxysub {
+    background-color: #f6f8f8;
+    color: black;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+
+}
